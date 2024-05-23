@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.sum-cont{
+    text-align: center;
+    /* border: 2px solid red; */
+    font-size: 1.5em;
+    padding: 2%;
+    background-color: black;
+    color: white;
+}
+
+.sum-cont p{
+    margin-bottom: 1%;
+}
+
+.text-cont{
+    text-align: center;
+    /* border: 2px solid black; */
+    padding: 2%;
+    background-color: black;
+    color: white;
+}
+.text-cont h1{
+    margin-bottom: 1%;
+}
+.utl-cont{
+    text-align: center;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-between;
+    padding: 1% 30%;
+    background-color: black;
+    color: white;
+}
+
+.utl-cont button{
+    font-size: 1em;
+    padding: 2% 5%;
+    color: white;
+    border-color: aqua;
+    cursor: pointer;
+   
+}
+
+#textarea{
+    font-size: 1.5em;
+    padding: 1%;
+    border-color: aqua;
+    color: white;
+}
